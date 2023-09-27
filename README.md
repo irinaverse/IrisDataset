@@ -1,2 +1,2 @@
 ## Juno_and_Jupiter
-Flowers and Numbers or Irina's Irises
+Flowers and Numbers - Iri(na's) Iri(ses)
