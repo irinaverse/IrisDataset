@@ -1,2 +1,2 @@
 ### Juno_and_Jupiter
-Flowers and Numbers - Iri's Iris Dataset
+Customizing the famous Iris Dataset in "Flowers and Numbers".
