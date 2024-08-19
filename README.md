@@ -1,7 +1,7 @@
 ## Datasets - working with data
 Customizing the famous Iris Dataset in "Flowers and Numbers".
 
-Showing pandas DataFrame structures on a cute LEGO dataset.
+Showing pandas DataFrame structures on a quite interesting LEGO dataset.
 
 Dates and Time turned into Wind discovery in "Weather Data".
 ## Data is on a journey, we are just the companions
