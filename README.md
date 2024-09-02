@@ -1,4 +1,2 @@
-## Datasets - working with data
+## The Iris Dataset
 - Customizing the famous Iris Dataset in "Flowers and Numbers"
-
-- Showing pandas DataFrame structures on a quite interesting LEGO dataset
