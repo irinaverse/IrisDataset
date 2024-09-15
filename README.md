@@ -6,6 +6,3 @@ Customizing the famous Iris Dataset in "Flowers and Numbers":
 - scatter plots as subplots
 
 Contact author: irina.nedyalkova@hotmail.com
-
-
-![image](https://github.com/user-attachments/assets/16daa390-9598-494f-babb-28481d777f57)
