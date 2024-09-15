@@ -4,3 +4,5 @@ Customizing the famous Iris Dataset in "Flowers and Numbers":
 - had to show the Iris Chrysographes with the most beautiful color
 - what are petals and sepals?
 - scatter plots as subplots
+
+Contact author: ⚜ irina.nedyalkova@hotmail.com
