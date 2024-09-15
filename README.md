@@ -7,4 +7,4 @@ Customizing the famous Iris Dataset in "Flowers and Numbers":
 
 Contact author: irina.nedyalkova@hotmail.com
 
-![image](https://github.com/user-attachments/assets/94443e2a-24f1-4bb7-a9b8-5464cb22acf7)
+![image](https://github.com/user-attachments/assets/c7b931d5-64a6-49d5-82de-8bd5edcc7074)
