@@ -5,4 +5,4 @@ Customizing the famous Iris Dataset in "Flowers and Numbers":
 - what are petals and sepals?
 - scatter plots as subplots
 
-Contact author: irina.nedyalkova@hotmail.com
+Contact author: inedyalkova152025@gmail.com
